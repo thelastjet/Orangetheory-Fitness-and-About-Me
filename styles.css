@@ -1,0 +1,32 @@
+body {
+    background-color: lightgrey;
+}
+
+#table, #row {
+    border: black solid 1px;
+}
+
+h1, h2 {
+    color: red;
+    background-color: black;
+}
+
+#people {
+    border: solid 2px red;
+    height: 200px;
+    width: 200px;
+};
+
+#moviePoster {
+    height: 400px;
+    width: 300px;
+}
+
+p {
+    font-weight: bold;
+    width: 350px;
+}
+
+iframe {
+    border: solid red 2px;
+}
